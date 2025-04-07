@@ -1,0 +1,7 @@
+all:
+	
+	gcc OS2.c -o x
+	
+
+clean:
+	-@rm -f x
